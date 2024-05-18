@@ -13,7 +13,7 @@ export default function Home({ services }) {
         <title>Монголросцветмет ТӨҮГ</title>
         <meta
           name="description"
-          content="Web Design, App Development, Content Creation Elbeg Irmuun"
+          content="Web Design, App Development, Content Creation Elbeg Irmuun 11"
         />
       </Head>
       <Intro />
